@@ -1,0 +1,632 @@
+description,status
+Certificate Services template security was updated,0
+The Per-user audit policy table was created,0
+An attempt was made to register a security event source,0
+An attempt was made to unregister a security event source,0
+The CrashOnAuditFail value has changed,0
+Auditing settings on object were changed,0
+Special Groups Logon table modified,0
+The local policy settings for the TBS were changed,0
+The group policy settings for the TBS were changed,0
+Resource attributes of the object were changed,0
+Per User Audit Policy was changed,0
+Central Access Policy on the object was changed,0
+An Active Directory replica source naming context was established,0
+An Active Directory replica source naming context was removed,0
+An Active Directory replica source naming context was modified,0
+An Active Directory replica destination naming context was modified,0
+Synchronization of a replica of an Active Directory naming context has begun,0
+Synchronization of a replica of an Active Directory naming context has ended,0
+Attributes of an Active Directory object were replicated,0
+Replication failure begins,1
+Replication failure ends,1
+A lingering object was removed from a replica,0
+The following policy was active when the Windows Firewall started,0
+A rule was listed when the Windows Firewall started,0
+A change has been made to Windows Firewall exception list. A rule was added,0
+A change has been made to Windows Firewall exception list. A rule was modified,0
+A change has been made to Windows Firewall exception list. A rule was deleted,0
+Windows Firewall settings were restored to the default values,0
+A Windows Firewall setting has changed,0
+A rule has been ignored because its major version number was not recognized by Windows Firewall,0
+Parts of a rule have been ignored because its minor version number was not recognized by Windows Firewall,0
+A rule has been ignored by Windows Firewall because it could not parse the rule,0
+Windows Firewall Group Policy settings has changed. The new settings have been applied,0
+Windows Firewall has changed the active profile,0
+Windows Firewall did not apply the following rule,1
+Windows Firewall did not apply the following rule because the rule referred to items not configured on this computer,0
+IPsec dropped an inbound packet that failed an integrity check,1
+IPsec dropped an inbound packet that failed a replay check,1
+IPsec dropped an inbound packet that failed a replay check,1
+IPsec dropped an inbound clear text packet that should have been secured,0
+Special groups have been assigned to a new logon,0
+IPsec received a packet from a remote computer with an incorrect Security Parameter Index (SPI).,0
+"During Main Mode negotiation, IPsec received an invalid negotiation packet.",0
+"During Quick Mode negotiation, IPsec received an invalid negotiation packet.",0
+"During Extended Mode negotiation, IPsec received an invalid negotiation packet.",0
+IPsec Main Mode and Extended Mode security associations were established.,0
+IPsec Main Mode and Extended Mode security associations were established,0
+IPsec Main Mode and Extended Mode security associations were established,0
+IPsec Main Mode and Extended Mode security associations were established,0
+An IPsec Extended Mode negotiation failed,1
+An IPsec Extended Mode negotiation failed,1
+The state of a transaction has changed,0
+The Windows Firewall Service has started successfully,0
+The Windows Firewall Service has been stopped,0
+The Windows Firewall Service was unable to retrieve the security policy from the local storage,0
+The Windows Firewall Service was unable to parse the new security policy.,0
+The Windows Firewall Service failed to initialize the driver,1
+The Windows Firewall Service failed to start,1
+The Windows Firewall Service blocked an application from accepting incoming connections on the network.,1
+Windows Firewall was unable to notify the user that it blocked an application from accepting incoming connections on the network,1
+The Windows Firewall Driver has started successfully,0
+The Windows Firewall Driver has been stopped,0
+The Windows Firewall Driver failed to start,1
+The Windows Firewall Driver detected critical runtime error. Terminating,1
+Code integrity determined that the image hash of a file is not valid,1
+A registry key was virtualized.,0
+A change has been made to IPsec settings. An Authentication Set was added.,0
+A change has been made to IPsec settings. An Authentication Set was modified,0
+A change has been made to IPsec settings. An Authentication Set was deleted,0
+A change has been made to IPsec settings. A Connection Security Rule was added,0
+A change has been made to IPsec settings. A Connection Security Rule was modified,0
+A change has been made to IPsec settings. A Connection Security Rule was deleted,0
+A change has been made to IPsec settings. A Crypto Set was added,0
+A change has been made to IPsec settings. A Crypto Set was modified,0
+A change has been made to IPsec settings. A Crypto Set was deleted,0
+An IPsec Security Association was deleted,0
+An attempt to programmatically disable the Windows Firewall using a call to INetFwProfile.FirewallEnabled(FALSE,1
+A file was virtualized,0
+A cryptographic self test was performed,0
+A cryptographic primitive operation failed,1
+Key file operation,0
+Key migration operation,0
+Verification operation failed,1
+Cryptographic operation,0
+A kernel-mode cryptographic self test was performed,0
+A cryptographic provider operation was attempted,0
+A cryptographic context operation was attempted,0
+A cryptographic context modification was attempted,0
+A cryptographic function operation was attempted,0
+A cryptographic function modification was attempted,0
+A cryptographic function provider operation was attempted,0
+A cryptographic function property operation was attempted,0
+A cryptographic function property operation was attempted,0
+Key access denied by Microsoft key distribution service,1
+OCSP Responder Service Started,0
+OCSP Responder Service Stopped,0
+A Configuration entry changed in the OCSP Responder Service,0
+A configuration entry changed in the OCSP Responder Service,0
+A security setting was updated on OCSP Responder Service,0
+A request was submitted to OCSP Responder Service,0
+Signing Certificate was automatically updated by the OCSP Responder Service,0
+The OCSP Revocation Provider successfully updated the revocation information,0
+A directory service object was modified,0
+A directory service object was created,0
+A directory service object was undeleted,0
+A directory service object was moved,0
+A network share object was accessed,0
+A directory service object was deleted,1
+A network share object was added.,0
+A network share object was modified,0
+A network share object was deleted.,0
+A network share object was checked to see whether client can be granted desired access,1
+The Windows Filtering Platform has blocked a packet,1
+A more restrictive Windows Filtering Platform filter has blocked a packet,1
+The Windows Filtering Platform has detected a DoS attack and entered a defensive mode; packets associated with this attack will be discarded.,1
+The DoS attack has subsided and normal processing is being resumed.,1
+The Windows Filtering Platform has blocked a packet.,0
+A more restrictive Windows Filtering Platform filter has blocked a packet.,1
+The Windows Filtering Platform blocked a packet,1
+A more restrictive Windows Filtering Platform filter has blocked a packet,0
+The Windows Filtering Platform has permitted an application or service to listen on a port for incoming connections,0
+The Windows Filtering Platform has blocked an application or service from listening on a port for incoming connections,0
+The Windows Filtering Platform has allowed a connection,0
+The Windows Filtering Platform has blocked a connection,1
+The Windows Filtering Platform has permitted a bind to a local port,0
+The Windows Filtering Platform has blocked a bind to a local port,1
+Spn check for SMB/SMB2 fails.,1
+A directory service object was modified,0
+A directory service object was modified during a background cleanup task,0
+Credential Manager credentials were backed up,0
+Credential Manager credentials were restored from a backup,0
+The requested credentials delegation was disallowed by policy,1
+Credential Manager credentials were read,0
+Vault Find Credential,0
+Vault credentials were read,0
+Vault credentials were read,0
+The following callout was present when the Windows Filtering Platform Base Filtering Engine started,0
+The following filter was present when the Windows Filtering Platform Base Filtering Engine started,0
+The following provider was present when the Windows Filtering Platform Base Filtering Engine started,0
+The following provider context was present when the Windows Filtering Platform Base Filtering Engine started,0
+The following sub-layer was present when the Windows Filtering Platform Base Filtering Engine started,0
+A Windows Filtering Platform callout has been changed,0
+A Windows Filtering Platform filter has been changed,0
+A Windows Filtering Platform provider has been changed,0
+A Windows Filtering Platform provider context has been changed,0
+A Windows Filtering Platform sub-layer has been changed,0
+An IPsec Quick Mode security association was established,0
+An IPsec Quick Mode security association ended,0
+An IPsec negotiation with a remote computer failed because the IKE and AuthIP IPsec Keying Modules (IKEEXT) service is not started,1
+PAStore Engine applied Active Directory storage IPsec policy on the computer,0
+PAStore Engine failed to apply Active Directory storage IPsec policy on the computer,1
+PAStore Engine applied locally cached copy of Active Directory storage IPsec policy on the computer,0
+PAStore Engine failed to apply locally cached copy of Active Directory storage IPsec policy on the computer,1
+PAStore Engine applied local registry storage IPsec policy on the computer,0
+PAStore Engine failed to apply local registry storage IPsec policy on the computer,1
+PAStore Engine failed to apply some rules of the active IPsec policy on the computer,1
+PAStore Engine polled for changes to the active IPsec policy and detected no changes,0
+"PAStore Engine polled for changes to the active IPsec policy, detected changes, and applied them to IPsec Services",0
+PAStore Engine received a control for forced reloading of IPsec policy and processed the control successfully,0
+"PAStore Engine polled for changes to the Active Directory IPsec policy, determined that Active Directory cannot be reached, and will use the cached copy of the Active Directory IPsec policy instead",1
+"PAStore Engine polled for changes to the Active Directory IPsec policy, determined that Active Directory can be reached, and found no changes to the policy",1
+"PAStore Engine polled for changes to the Active Directory IPsec policy, determined that Active Directory can be reached, found changes to the policy, and applied those changes",0
+PAStore Engine loaded local storage IPsec policy on the computer,0
+PAStore Engine failed to load local storage IPsec policy on the computer,1
+PAStore Engine loaded directory storage IPsec policy on the computer,0
+PAStore Engine failed to load directory storage IPsec policy on the computer,1
+PAStore Engine failed to add quick mode filter,1
+IPsec Services has started successfully,0
+IPsec Services has been shut down successfully,0
+IPsec Services failed to get the complete list of network interfaces on the computer,1
+IPsec Services failed to initialize RPC server. IPsec Services could not be started,1
+IPsec Services has experienced a critical failure and has been shut down,1
+IPsec Services failed to process some IPsec filters on a plug-and-play event for network interfaces,1
+A request was made to authenticate to a wireless network,0
+A request was made to authenticate to a wired network,0
+A Remote Procedure Call (RPC) was attempted,0
+An object in the COM+ Catalog was modified,0
+An object was deleted from the COM+ Catalog,0
+An object was added to the COM+ Catalog,0
+Security policy in the group policy objects has been applied successfully,0
+One or more errors occured while processing security policy in the group policy objects,1
+Network Policy Server granted access to a user,0
+Network Policy Server denied access to a user,0
+Network Policy Server discarded the request for a user,0
+Network Policy Server discarded the accounting request for a user,0
+Network Policy Server quarantined a user,0
+Network Policy Server granted access to a user but put it on probation because the host did not meet the defined health policy,0
+Network Policy Server granted full access to a user because the host met the defined health policy,0
+Network Policy Server locked the user account due to repeated failed authentication attempts,1
+Network Policy Server unlocked the user account,0
+Code Integrity determined that the page hashes of an image file are not valid...,1
+BranchCache: Received an incorrectly formatted response while discovering availability of content.,1
+BranchCache: Received invalid data from a peer. Data discarded.,1
+BranchCache: The message to the hosted cache offering it data is incorrectly formatted.,1
+BranchCache: The hosted cache sent an incorrectly formatted response to the client's message to offer it data.,1
+BranchCache: Hosted cache could not be authenticated using the provisioned SSL certificate.,1
+BranchCache: %2 instance(s) of event id %1 occurred.,0
+%1 registered to Windows Firewall to control filtering for the following:,0
+Registered product %1 failed and Windows Firewall is now controlling the filtering for %2.,1
+BranchCache: A service connection point object could not be parsed,1
+Code integrity determined that a file does not meet the security requirements to load into a process. This could be due to the use of shared sections or other issues,1
+A new external device was recognized by the system.,0
+The FIPS mode crypto selftests succeeded,0
+The FIPS mode crypto selftests failed,1
+A request was made to disable a device,0
+A device was disabled,0
+A request was made to enable a device,0
+A device was enabled,0
+The installation of this device is forbidden by system policy,1
+"The installation of this device was allowed, after having previously been forbidden by policy",0
+Highest System-Defined Audit Message Value,0
+The event logging service has shut down,0
+Audit events have been dropped by the transport.,0
+The audit log was cleared,0
+The security Log is now full,0
+Event log automatic backup,0
+The event logging service encountered an error,1
+Windows is starting up,0
+Windows is shutting down,0
+An authentication package has been loaded by the Local Security Authority,0
+A trusted logon process has been registered with the Local Security Authority,0
+"Internal resources allocated for the queuing of audit messages have been exhausted, leading to the loss of some audits.",0
+A notification package has been loaded by the Security Account Manager.,0
+Invalid use of LPC port,0
+The system time was changed.,0
+A monitored security event pattern has occurred,0
+Administrator recovered system from CrashOnAuditFail,0
+A security package has been loaded by the Local Security Authority.,0
+An account was successfully logged on,0
+An account failed to log on,1
+User/Device claims information,0
+Group membership information.,0
+An account was logged off,0
+IKE DoS-prevention mode started,0
+User initiated logoff,0
+A logon was attempted using explicit credentials,0
+A replay attack was detected,0
+An IPsec Main Mode security association was established,0
+An IPsec Main Mode security association was established,0
+An IPsec Main Mode negotiation failed,1
+An IPsec Main Mode negotiation failed,1
+An IPsec Quick Mode negotiation failed,1
+An IPsec Main Mode security association ended,0
+A handle to an object was requested,0
+A registry value was modified,0
+The handle to an object was closed,0
+A handle to an object was requested with intent to delete,0
+An object was deleted,0
+A handle to an object was requested,0
+An operation was performed on an object,0
+An attempt was made to access an object,0
+An attempt was made to create a hard link,0
+An attempt was made to create an application client context.,0
+An application attempted an operation,0
+An application client context was deleted,0
+An application was initialized,0
+Permissions on an object were changed,0
+An application attempted to access a blocked ordinal through the TBS,0
+Special privileges assigned to new logon,0
+A privileged service was called,0
+An operation was attempted on a privileged object,1
+SIDs were filtered,0
+A new process has been created,0
+A process has exited,0
+An attempt was made to duplicate a handle to an object,0
+Indirect access to an object was requested,0
+Backup of data protection master key was attempted,0
+Recovery of data protection master key was attempted,0
+Protection of auditable protected data was attempted,0
+Unprotection of auditable protected data was attempted,1
+A primary token was assigned to process,0
+A service was installed in the system,0
+A scheduled task was created,0
+A scheduled task was deleted,0
+A scheduled task was enabled,0
+A scheduled task was disabled,0
+A scheduled task was updated,0
+A token right was adjusted,0
+A user right was assigned,0
+A user right was removed,0
+A new trust was created to a domain,0
+A trust to a domain was removed,0
+IPsec Services was started,0
+IPsec Services was disabled,0
+PAStore Engine (1%),0
+IPsec Services encountered a potentially serious failure,1
+Kerberos policy was changed,0
+Encrypted data recovery policy was changed,0
+The audit policy (SACL) on an object was changed,0
+Trusted domain information was modified,0
+System security access was granted to an account,0
+System security access was removed from an account,0
+System audit policy was changed,0
+A user account was created,0
+A user account was enabled,0
+An attempt was made to change an account's password,0
+An attempt was made to reset an accounts password,0
+A user account was disabled,0
+A user account was deleted,0
+A security-enabled global group was created,0
+A member was added to a security-enabled global group,0
+A member was removed from a security-enabled global group,0
+A security-enabled global group was deleted,0
+A security-enabled local group was created,0
+A member was added to a security-enabled local group,0
+A member was removed from a security-enabled local group,0
+A security-enabled local group was deleted,0
+A security-enabled local group was changed,0
+A security-enabled global group was changed,0
+A user account was changed,0
+Domain Policy was changed,0
+A user account was locked out,0
+A computer account was created,0
+A computer account was changed,0
+A computer account was deleted,0
+A security-disabled local group was created,0
+A security-disabled local group was changed,0
+A member was added to a security-disabled local group,0
+A member was removed from a security-disabled local group,0
+A security-disabled local group was deleted,0
+A security-disabled global group was created,0
+A security-disabled global group was changed,0
+A member was added to a security-disabled global group,0
+A member was removed from a security-disabled global group,0
+A security-disabled global group was deleted,0
+A security-enabled universal group was created,0
+A security-enabled universal group was changed,0
+A member was added to a security-enabled universal group,0
+A member was removed from a security-enabled universal group,0
+A security-enabled universal group was deleted,0
+A security-disabled universal group was created,0
+A security-disabled universal group was changed,0
+A member was added to a security-disabled universal group,0
+A member was removed from a security-disabled universal group,0
+A security-disabled universal group was deleted,0
+A groups type was changed,0
+SID History was added to an account,0
+An attempt to add SID History to an account failed,1
+A user account was unlocked,0
+A Kerberos authentication ticket (TGT) was requested,0
+A Kerberos service ticket was requested,0
+A Kerberos service ticket was renewed,0
+Kerberos pre-authentication failed,0
+A Kerberos authentication ticket request failed,0
+A Kerberos service ticket request failed,0
+An account was mapped for logon,0
+An account could not be mapped for logon,0
+The domain controller attempted to validate the credentials for an account,0
+The domain controller failed to validate the credentials for an account,0
+A session was reconnected to a Window Station,0
+A session was disconnected from a Window Station,0
+The ACL was set on accounts which are members of administrators groups,0
+The name of an account was changed,0
+The password hash an account was accessed,0
+A basic application group was created,0
+A basic application group was changed,0
+A member was added to a basic application group,0
+A member was removed from a basic application group,0
+A non-member was added to a basic application group,0
+A non-member was removed from a basic application group..,0
+A basic application group was deleted,0
+An LDAP query group was created,0
+A basic application group was changed,0
+An LDAP query group was deleted,0
+The Password Policy Checking API was called,0
+An attempt was made to set the Directory Services Restore Mode administrator password,0
+An attempt was made to query the existence of a blank password for an account,0
+A user's local group membership was enumerated.,0
+A security-enabled local group membership was enumerated,0
+The workstation was locked,0
+The workstation was unlocked,0
+The screen saver was invoked,0
+The screen saver was dismissed,0
+RPC detected an integrity violation while decrypting an incoming message,0
+Auditing settings on object were changed.,0
+Proposed Central Access Policy does not grant the same access permissions as the current Central Access Policy,0
+Central Access Policies on the machine have been changed,0
+A Kerberos Ticket-granting-ticket (TGT) was denied because the device does not meet the access control restrictions,0
+"A Kerberos service ticket was denied because the user, device, or both does not meet the access control restrictions",0
+NTLM authentication failed because the account was a member of the Protected User group,0
+NTLM authentication failed because access control restrictions are required,0
+Kerberos preauthentication by using DES or RC4 failed because the account was a member of the Protected User group,0
+"A user was denied the access to Remote Desktop. By default, users are allowed to connect only if they are members of the Remote Desktop Users group or Administrators group",0
+Boot Configuration Data loaded,0
+SID History was removed from an account,0
+A namespace collision was detected,0
+A trusted forest information entry was added,0
+A trusted forest information entry was removed,0
+A trusted forest information entry was modified,0
+The certificate manager denied a pending certificate request,0
+Certificate Services received a resubmitted certificate request,0
+Certificate Services revoked a certificate,0
+Certificate Services received a request to publish the certificate revocation list (CRL),0
+Certificate Services published the certificate revocation list (CRL),0
+A certificate request extension changed,0
+One or more certificate request attributes changed.,0
+Certificate Services received a request to shut down,0
+Certificate Services backup started,0
+Certificate Services backup completed,0
+Certificate Services restore started,0
+Certificate Services restore completed,0
+Certificate Services started,0
+Certificate Services stopped,0
+The security permissions for Certificate Services changed,0
+Certificate Services retrieved an archived key,0
+Certificate Services imported a certificate into its database,0
+The audit filter for Certificate Services changed,0
+Certificate Services received a certificate request,0
+Certificate Services approved a certificate request and issued a certificate,0
+Certificate Services denied a certificate request,0
+Certificate Services set the status of a certificate request to pending,0
+The certificate manager settings for Certificate Services changed.,0
+A configuration entry changed in Certificate Services,0
+A property of Certificate Services changed,0
+Certificate Services archived a key,0
+Certificate Services imported and archived a key,0
+Certificate Services published the CA certificate to Active Directory Domain Services,0
+One or more rows have been deleted from the certificate database,0
+Role separation enabled,0
+Certificate Services loaded a template,0
+A Certificate Services template was updated,0
+The event logging service has shut down,0
+Audit events have been dropped by the transport.,0
+The audit log was cleared,0
+The security Log is now full,0
+Event log automatic backup,0
+The event logging service encountered an error,1
+Windows is starting up,0
+Windows is shutting down,0
+An authentication package has been loaded by the Local Security Authority,0
+A trusted logon process has been registered with the Local Security Authority,0
+"Internal resources allocated for the queuing of audit messages have been exhausted, leading to the loss of some audits.",0
+A notification package has been loaded by the Security Account Manager.,0
+Invalid use of LPC port,0
+The system time was changed.,0
+A monitored security event pattern has occurred,0
+Administrator recovered system from CrashOnAuditFail,0
+A security package has been loaded by the Local Security Authority.,0
+An account was successfully logged on,0
+An account failed to log on,1
+User/Device claims information,0
+Group membership information.,0
+An account was logged off,0
+IKE DoS-prevention mode started,0
+User initiated logoff,0
+A logon was attempted using explicit credentials,0
+A replay attack was detected,0
+An IPsec Main Mode security association was established,0
+An IPsec Main Mode security association was established,0
+An IPsec Main Mode negotiation failed,1
+An IPsec Main Mode negotiation failed,1
+An IPsec Quick Mode negotiation failed,1
+An IPsec Main Mode security association ended,0
+A handle to an object was requested,0
+A registry value was modified,0
+The handle to an object was closed,0
+A handle to an object was requested with intent to delete,0
+An object was deleted,0
+A handle to an object was requested,0
+An operation was performed on an object,0
+An attempt was made to access an object,0
+An attempt was made to create a hard link,0
+An attempt was made to create an application client context.,0
+An application attempted an operation,0
+An application client context was deleted,0
+An application was initialized,0
+Permissions on an object were changed,0
+An application attempted to access a blocked ordinal through the TBS,0
+Special privileges assigned to new logon,0
+A privileged service was called,0
+An operation was attempted on a privileged object,1
+SIDs were filtered,0
+A new process has been created,0
+A process has exited,0
+An attempt was made to duplicate a handle to an object,0
+Indirect access to an object was requested,0
+Backup of data protection master key was attempted,0
+Recovery of data protection master key was attempted,0
+Protection of auditable protected data was attempted,0
+Unprotection of auditable protected data was attempted,1
+A primary token was assigned to process,0
+A service was installed in the system,0
+A scheduled task was created,0
+A scheduled task was deleted,0
+A scheduled task was enabled,0
+A scheduled task was disabled,0
+A scheduled task was updated,0
+A token right was adjusted,0
+A user right was assigned,0
+A user right was removed,0
+A new trust was created to a domain,0
+A trust to a domain was removed,0
+IPsec Services was started,0
+IPsec Services was disabled,0
+PAStore Engine (1%),0
+IPsec Services encountered a potentially serious failure,1
+Kerberos policy was changed,0
+Encrypted data recovery policy was changed,0
+The audit policy (SACL) on an object was changed,0
+Trusted domain information was modified,0
+System security access was granted to an account,0
+System security access was removed from an account,0
+System audit policy was changed,0
+A user account was created,0
+A user account was enabled,0
+An attempt was made to change an account's password,0
+An attempt was made to reset an accounts password,0
+A user account was disabled,0
+A user account was deleted,0
+A security-enabled global group was created,0
+A member was added to a security-enabled global group,0
+A member was removed from a security-enabled global group,0
+A security-enabled global group was deleted,0
+A security-enabled local group was created,0
+A member was added to a security-enabled local group,0
+A member was removed from a security-enabled local group,0
+A security-enabled local group was deleted,0
+A security-enabled local group was changed,0
+A security-enabled global group was changed,0
+A user account was changed,0
+Domain Policy was changed,0
+A user account was locked out,0
+A computer account was created,0
+A computer account was changed,0
+A computer account was deleted,0
+A security-disabled local group was created,0
+A security-disabled local group was changed,0
+A member was added to a security-disabled local group,0
+A member was removed from a security-disabled local group,0
+A security-disabled local group was deleted,0
+A security-disabled global group was created,0
+A security-disabled global group was changed,0
+A member was added to a security-disabled global group,0
+A member was removed from a security-disabled global group,0
+A security-disabled global group was deleted,0
+A security-enabled universal group was created,0
+A security-enabled universal group was changed,0
+A member was added to a security-enabled universal group,0
+A member was removed from a security-enabled universal group,0
+A security-enabled universal group was deleted,0
+A security-disabled universal group was created,0
+A security-disabled universal group was changed,0
+A member was added to a security-disabled universal group,0
+A member was removed from a security-disabled universal group,0
+A security-disabled universal group was deleted,0
+A groups type was changed,0
+SID History was added to an account,0
+An attempt to add SID History to an account failed,1
+A user account was unlocked,0
+A Kerberos authentication ticket (TGT) was requested,1
+A Kerberos service ticket was requested,1
+A Kerberos service ticket was renewed,0
+Kerberos pre-authentication failed,1
+A Kerberos authentication ticket request failed,1
+A Kerberos service ticket request failed,1
+An account was mapped for logon,0
+An account could not be mapped for logon,1
+The domain controller attempted to validate the credentials for an account,1
+The domain controller failed to validate the credentials for an account,1
+A session was reconnected to a Window Station,0
+A session was disconnected from a Window Station,0
+The ACL was set on accounts which are members of administrators groups,0
+The name of an account was changed,0
+The password hash an account was accessed,0
+A basic application group was created,0
+A basic application group was changed,0
+A member was added to a basic application group,0
+A member was removed from a basic application group,0
+A non-member was added to a basic application group,0
+A non-member was removed from a basic application group..,0
+A basic application group was deleted,0
+An LDAP query group was created,0
+A basic application group was changed,0
+An LDAP query group was deleted,0
+The Password Policy Checking API was called,0
+An attempt was made to set the Directory Services Restore Mode administrator password,0
+An attempt was made to query the existence of a blank password for an account,0
+A user's local group membership was enumerated.,0
+A security-enabled local group membership was enumerated,0
+The workstation was locked,0
+The workstation was unlocked,0
+The screen saver was invoked,0
+The screen saver was dismissed,0
+RPC detected an integrity violation while decrypting an incoming message,0
+Auditing settings on object were changed.,0
+Proposed Central Access Policy does not grant the same access permissions as the current Central Access Policy,0
+Central Access Policies on the machine have been changed,0
+A Kerberos Ticket-granting-ticket (TGT) was denied because the device does not meet the access control restrictions,1
+"A Kerberos service ticket was denied because the user, device, or both does not meet the access control restrictions",1
+NTLM authentication failed because the account was a member of the Protected User group,1
+NTLM authentication failed because access control restrictions are required,1
+Kerberos preauthentication by using DES or RC4 failed because the account was a member of the Protected User group,1
+"A user was denied the access to Remote Desktop. By default, users are allowed to connect only if they are members of the Remote Desktop Users group or Administrators group",0
+Boot Configuration Data loaded,0
+SID History was removed from an account,0
+A namespace collision was detected,0
+A trusted forest information entry was added,0
+A trusted forest information entry was removed,0
+A trusted forest information entry was modified,0
+The certificate manager denied a pending certificate request,0
+Certificate Services received a resubmitted certificate request,0
+Certificate Services revoked a certificate,0
+Certificate Services received a request to publish the certificate revocation list (CRL),0
+Certificate Services published the certificate revocation list (CRL),0
+A certificate request extension changed,0
+One or more certificate request attributes changed.,0
+Certificate Services received a request to shut down,0
+Certificate Services backup started,0
+Certificate Services backup completed,0
+Certificate Services restore started,0
+Certificate Services restore completed,0
+Certificate Services started,0
+Certificate Services stopped,0
+The security permissions for Certificate Services changed,0
+Certificate Services retrieved an archived key,0
+Certificate Services imported a certificate into its database,0
+The audit filter for Certificate Services changed,0
+Certificate Services received a certificate request,0
+Certificate Services approved a certificate request and issued a certificate,0
+Certificate Services denied a certificate request,1
+Certificate Services set the status of a certificate request to pending,0
+The certificate manager settings for Certificate Services changed.,0
+A configuration entry changed in Certificate Services,0
+A property of Certificate Services changed,0
+Certificate Services archived a key,0
+Certificate Services imported and archived a key,0
+Certificate Services published the CA certificate to Active Directory Domain Services,0
+One or more rows have been deleted from the certificate database,0
+Role separation enabled,0
+Certificate Services loaded a template,0
+A Certificate Services template was updated,0
